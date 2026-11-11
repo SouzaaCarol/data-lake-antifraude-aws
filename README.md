@@ -16,7 +16,7 @@ O projeto utiliza dados sintéticos, gerados com Python, para simular um cenári
 
 A solução utiliza a arquitetura Medallion, dividida em três camadas:
 
-![Arquitetura do Data Lake](documentacao/arquitetura/arquitetura_data_lake.png?raw=true).
+![Arquitetura do Data Lake](./documentacao/arquitetura/arquitetura_data_lake.jpeg)
 
 ### Camada Bronze
 
